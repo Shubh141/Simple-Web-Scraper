@@ -1,0 +1,23 @@
+{
+  "name": "simple-web-scraper",
+  "version": "1.0.0",
+  "description": "A simple web scraper to scrape all UNSW math courses, course codes and teaching periods for the current year",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubh141/Simple-Web-Scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubh141/Simple-Web-Scraper/issues"
+  },
+  "homepage": "https://github.com/Shubh141/Simple-Web-Scraper#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.0"
+  }
+}
