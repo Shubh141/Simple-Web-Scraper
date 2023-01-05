@@ -12,4 +12,4 @@ The data above was then extracted and used for a React App project to create dyn
 The following webpage was scraped:
 https://www.unsw.edu.au/science/our-schools/maths/student-life-resources/undergraduate/undergraduate-courses
 
-To see the scraped data, open courses.json in the data folder. 
+To see the scraped data, open courses.json in the data folder (or [click here]()
