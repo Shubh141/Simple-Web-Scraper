@@ -10,4 +10,4 @@ Properties scraped include:
 The following webpage was scraped:
 https://www.unsw.edu.au/science/our-schools/maths/student-life-resources/undergraduate/undergraduate-courses
 
-To see the scraped data, open courses.json in the data folder.
+To see the scraped data, open courses.json in the data folder. https://github.com/Shubh141/Simple-Web-Scraper/blob/main/data/courses.json
